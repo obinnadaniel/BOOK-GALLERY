@@ -1,0 +1,9 @@
+div.card-header > img{
+  width: 15rem;
+  height: 20rem;
+}
+
+.content {
+  text-align: center;
+  color: green;
+}
